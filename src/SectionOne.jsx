@@ -1,0 +1,33 @@
+import React, { useState } from "react";
+
+function SectionOne()
+{
+    
+    return (
+        <section className="section-1" id="profile">
+        <div>
+            <div>
+                <div className="main-frame width">
+                    <div>
+                        <div className="info-me" >
+                            <h1 className="Hello">Hello,</h1>
+                            <h1 className="name">I'm <span> MANOJKUMAR M</span></h1>
+                            <h2 className="role">WEB Developer</h2>
+                            <h3 className="quote">As a passionate web developer, I'm eager to bring my fresh perspective and creativity to the digital realm, crafting visually stunning and user-friendly websites that leave a lasting impact.</h3>
+                            <div className="anchor_About">
+                                 <a className="button-35" style={{marginRight:"17px"}} href="www.linkedin.com/in/manojkumarm1310" target="_blank" > LinkedIn </a>
+                                 <a className="button-35" href="Resume_Manojkumar M.pdf" target="_blank" > Resume </a>        
+                            </div>
+                        </div>
+                    </div>
+                    <div className="profile_adj">
+                        <div className="infophoto-me"></div>
+                    </div>
+                </div>
+            </div>
+           </div>
+        </section>
+    )
+}
+
+export default SectionOne;
