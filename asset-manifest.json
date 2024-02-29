@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e84679b6.css",
-    "main.js": "/portfolio/static/js/main.dce90883.js",
+    "main.css": "/portfolio/static/css/main.11bc0416.css",
+    "main.js": "/portfolio/static/js/main.60a6589b.js",
+    "static/media/fitness.png": "/portfolio/static/media/fitness.7557770cf0a9635dc7cc.png",
+    "static/media/Todo.png": "/portfolio/static/media/Todo.4f6026343ecfa5b13183.png",
     "static/media/myPhoto3.png": "/portfolio/static/media/myPhoto3.c5e367b31860f64ede20.png",
-    "static/media/parcelproject.png": "/portfolio/static/media/parcelproject.87aabdebe6905b846b64.png",
     "static/media/myphoto2.jpg": "/portfolio/static/media/myphoto2.d81ded3852436c4ce554.jpg",
     "static/media/Portfolio.png": "/portfolio/static/media/Portfolio.bc344738af104617f4ae.png",
+    "static/media/smartlocker.png": "/portfolio/static/media/smartlocker.47aba659004a324c4d7d.png",
     "static/media/Loginsignup.png": "/portfolio/static/media/Loginsignup.7e48531617cd258ea141.png",
-    "static/media/Todo.png": "/portfolio/static/media/Todo.6767d714a9c56f5015dd.png",
     "static/media/puzzleGame.png": "/portfolio/static/media/puzzleGame.01f3bdf828765e77e121.png",
     "static/media/MemoryGame.png": "/portfolio/static/media/MemoryGame.30b374938271e63c3884.png",
     "static/media/react.ico": "/portfolio/static/media/react.a16733e86cea109d7fad.ico",
@@ -18,12 +19,14 @@
     "static/media/javascript.ico": "/portfolio/static/media/javascript.a74fcc82c0b088819ba5.ico",
     "static/media/css3.ico": "/portfolio/static/media/css3.90cb4787accc3e18819d.ico",
     "static/media/html5.ico": "/portfolio/static/media/html5.e96303bc57206357b3bc.ico",
+    "static/media/express.ico": "/portfolio/static/media/express.a4a8708b4eaf81510519.ico",
+    "static/media/tailwind.ico": "/portfolio/static/media/tailwind.de9b68f9283256153d80.ico",
     "index.html": "/portfolio/index.html",
-    "main.e84679b6.css.map": "/portfolio/static/css/main.e84679b6.css.map",
-    "main.dce90883.js.map": "/portfolio/static/js/main.dce90883.js.map"
+    "main.11bc0416.css.map": "/portfolio/static/css/main.11bc0416.css.map",
+    "main.60a6589b.js.map": "/portfolio/static/js/main.60a6589b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e84679b6.css",
-    "static/js/main.dce90883.js"
+    "static/css/main.11bc0416.css",
+    "static/js/main.60a6589b.js"
   ]
 }
