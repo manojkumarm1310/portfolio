@@ -127,7 +127,8 @@ a{
     justify-items: end;
     justify-content: center;;
     align-items: center;
-    padding-top: 220px;
+    padding-top: 200px;
+    padding-bottom: 30px;
 }
 .info-me
 {
@@ -217,23 +218,23 @@ a{
     box-shadow: 0 0 30px  #fff;
 }
 .button-35 {
+    width: 100px;
     align-items: center;
-    background-color:rgba(222, 18, 18, 0.929);
+    background:linear-gradient(111.3deg,#fc3838 11.7%,#ed0d51 81.7%);;
     font-size: medium;
     border-radius: 12px;
     box-shadow: transparent 0 0 0 3px,rgba(18, 18, 18, .1) 0 6px 20px;
     box-sizing: border-box;
     color: white;
     cursor: pointer;
-    display: inline-flex;
-    flex: 1 1 auto;
+    display: flex;
     font-family: 'Roboto', sans-serif;  
     font-weight: 900;
     justify-content: center;
     line-height: 1;
-    margin: 20px 0;
+    margin: 20px 40px 20px 0;
     outline: none;
-    padding:  20px 35px;
+    padding:  18px 40px;
     text-align: center;
     text-decoration: none;
     transition: box-shadow .2s,-webkit-box-shadow .2s;
@@ -246,6 +247,36 @@ a{
   .button-35:hover {
     box-shadow: #213555 0 0 0 2px, transparent 0 0 0 0;
   }
+.social-links-groups{
+    margin-top: 80px;
+}
+.social-links{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding-top: 15px;
+}
+.social-links .my-social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: .3s;
+}
+.social-links a{
+    text-decoration: none;
+}
+.social-links a img{
+    width: 40px;
+    height: 40px;
+    transition: .3s
+}
+.social-links .my-social:hover{
+    transform: translateY(-5px);
+}
+.anchor_About{
+    display: flex;
+    align-items: center;
+}
 .section-2
 {
     text-align: center;
@@ -437,6 +468,15 @@ a{
     width:80%;
     animation: java 1s;
 }
+.progress-line.express span{
+    width:75%;
+    animation: express 1s;
+}
+.progress-line.tailwind span{
+    width:60%;
+    animation: tailwind 1s;
+}
+
 
 
 .progress-line span::after
@@ -468,6 +508,11 @@ a{
     content: "80%";
 }.progress-line.java span::after{
     content: "80%";
+}
+.progress-line.express span::after{
+    content: "75%";
+}.progress-line.tailwind span::after{
+    content: "60%";
 }
 
 .progress-line span::before
@@ -631,7 +676,7 @@ a{
 }
 .projects-box .projects-content p{
     font-size: 16px;
-    line-height: 28px;
+    line-height: 22px;
     color: #213555;
     font-family: 'Roboto', sans-serif;
     letter-spacing: 1px;
@@ -644,6 +689,7 @@ a{
     align-items: center;
 }
 .demo-links a{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 15px;
     text-decoration: none;
     padding: 10px 15px;

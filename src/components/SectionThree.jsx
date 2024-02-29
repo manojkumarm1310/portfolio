@@ -75,7 +75,7 @@ export default function SectionThree()
               <span class="edu_rounder"></span>
               <span class="edu_line"></span>
             </div>
-          </div>
+        </div>
           <div class="edu_data" >
             <div></div>
             <div>
