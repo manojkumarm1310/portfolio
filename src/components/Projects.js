@@ -10,8 +10,8 @@ export const Projects=[
         src: smartlocker,
         title:"SmartLocker",
         desc:"Smart parcel lockers are secure storage solutions that can receive and deliver packages of various sizes.",
-        href1:"https://github.com/manojkumarm1310/smartlocker.git",
-        href2:"https://github.com/manojkumarm1310/smartlocker.git"
+        href1:"https://github.com/manojkumarm1310/smartlocker",
+        href2:"https://smartlocker-nu.vercel.app/"
     },
 
     {
